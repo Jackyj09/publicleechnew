@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     message_id = 99
     # display the /help message
     await message.reply_text(
-        f"[Welcome !!](https://t.me/FreeTorrentDownloader/101480)\n\n Please read the Pinned Message\n\n Check Out Our Another Project : @premiumcoursesdrive \n\n Check out our Channel for older uploads : @gdrivemoviess",
+        f"[Read Pinned Message 📝 !!](https://t.me/FreeTorrentDownloader/101480)\n\n Check Out Our Another Project : @premiumcoursesdrive \n\n Check out our Channel for older uploads : @gdrivemoviess",
         quote=True
     )
 
